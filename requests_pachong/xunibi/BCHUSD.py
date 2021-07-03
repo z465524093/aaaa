@@ -69,7 +69,7 @@ def KLinePlot(Data):
         mav = (7, 25, 99),   #平均线
         datetime_format = '%Y-%m-%d %H:%M'
     )
-
+# 11111111111111111111111111111111111111111111111111111111111111111111
 
 if __name__ == '__main__':
     print('start')

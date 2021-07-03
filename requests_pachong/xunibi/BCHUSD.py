@@ -78,7 +78,7 @@ if __name__ == '__main__':
     data_BCH = a.bitcoke_k(start=1624441489097, symbol='XBCHUSD')
     # res.to_csv('data_BTCUSD.csv', mode='a', header=False)
 ###Index(['source', 'symbol', 'open', 'close', 'high', 'low', 'keyTime','timeStamp', 'volume', 'turnover']
-
+    print('123456789')
     KLinePlot(data_BTC)
     KLinePlot(data_BCH)
     # 基本 获取近3个月XBTCUSD的柱状图数据，并进行图像化，要求价格数据和交易量数据进行图像分离。
